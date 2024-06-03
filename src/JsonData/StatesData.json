@@ -1,0 +1,17 @@
+[
+  {
+    "Location": "CA",
+    "TaxRate": 0.0975,
+    "ExemptList": [
+      "food"
+    ]
+  },
+  {
+    "Location": "NY",
+    "TaxRate": 0.08875,
+    "ExemptList": [
+      "food",
+      "clothing"
+    ]
+  }
+]

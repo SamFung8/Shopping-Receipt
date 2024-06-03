@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "book",
+    "Categories": "stationery"
+  },
+  {
+    "Name": "potato chips",
+    "Categories": "food"
+  },
+  {
+    "Name": "pencils",
+    "Categories": "stationery"
+  },
+  {
+    "Name": "shirt",
+    "Categories": "clothing"
+  }
+]
